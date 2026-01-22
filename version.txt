@@ -1,0 +1,4 @@
+VERSION=1.0.5
+DATE=2025-01-22
+NOTES=Bug fixes and improvements
+MIN_VERSION=1.0.0
